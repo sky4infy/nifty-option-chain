@@ -61,3 +61,5 @@ Debugging the NSE API headers/cookies method
 Improving parsing logic
 
 Cleaning duplicate strikes
+
+Make a web application
